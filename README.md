@@ -18,6 +18,7 @@ Computer Engineering student from **PSU** who lives at the intersection of **Log
 
 ### 📁 Featured Projects
 * **Smart Shop Plus:** A Smart Shopping List App with Price Tracking & Aisle Organization.
+* **Smart Vocal Plus:** A Smart Vocal App designed specifically for vocalists and musicians.
 
 ---
 
